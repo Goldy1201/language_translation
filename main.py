@@ -22,7 +22,7 @@ def main():
     st.markdown("<h1 style='text-align: center; color: black;'>Language Translator</h1>", unsafe_allow_html=True)
     with st.expander("Project Details"):
         st.markdown("""
-        ## Add the deatils
+        ## Translating German Language into English Language
 
         ### Business Purpose
 
